@@ -1,4 +1,4 @@
-def mainDir="Chapter02/2-jenkins-docker"
+def mainDir="Part2_Docker/Chapter02/2-jenkins-docker"
 def ecrLoginHelper="docker-credential-ecr-login"
 def region="ap-northeast-2"
 def ecrUrl="478807309941.dkr.ecr.ap-northeast-2.amazonaws.com" //ECR(Elastic Container Regitry): Docker Container Image를 안전하게 저장하고 관리, 배포할 수 있게 해줌
